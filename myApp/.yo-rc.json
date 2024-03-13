@@ -1,0 +1,22 @@
+{
+  "generator-jhipster": {
+    "applicationIndex": 0,
+    "applicationType": "gateway",
+    "authenticationType": "jwt",
+    "baseName": "myApp",
+    "clientFramework": "react",
+    "devServerPort": 9060,
+    "entities": ["A", "B", "C", "D"],
+    "jhipsterVersion": "8.1.0",
+    "jwtSecretKey": "NjFiOGI3MTU3ODMyMTdjZjExOWU1MWJmNmQ0YTNlNDNiODA5ZTgyNzM3NzhhNWJjMWJlY2M0N2U3ZDAyZTJlYzMyNTdlZTIxM2M4MjU1OGFhMDdiNWY2ZDgxZWQ4YTk0NjllNjI0ODg4ODVkYTUzN2Y0OWIwZThhYTU2ZjY2YmE=",
+    "languages": ["en"],
+    "lastLiquibaseTimestamp": 1710292910000,
+    "monorepository": true,
+    "nativeLanguage": "en",
+    "packageFolder": "com/myapp",
+    "packageName": "com.myapp",
+    "prodDatabaseType": "mysql",
+    "reactive": true,
+    "skipCommitHook": true
+  }
+}
